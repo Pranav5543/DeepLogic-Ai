@@ -108,4 +108,3 @@ See `ai-notes/` for details on tools used and example fixes.
 - **Line Items**: Table extraction is a "best effort" using spatial analysis.
 
 ---
-**Video Explanation**: [Link to Video Placeholder]
