@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+typer
+pdfplumber
+pydantic
+pandas
+pytest
+requests
+python-dateutil
